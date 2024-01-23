@@ -1,0 +1,40 @@
+https://www.youtube.com/watch?v=P8YuWEkTeuE&list=PL9bD98LkBR7P8MYh0RzNSHgeVNTA8g0nB&index=4
+
+
+*
+colocar os nomes dos oculos como produto(1) para fazer uma linha de sentido 
+img/produto1.png  
+img/produto2.png 
+
+arrumar o footer quando tiver metodos de pagamento
+Arrumar a logo como png no tamho ideal da navbar
+
+
+
+===============
+Arrumar contact.html 
+form-details> 
+div class people>
+substituir por fotos nossas, contato, etc
+=========
+
+
+
+
+
+=================
+arrumar no about style.css : 
+#page-header.about-header{
+  background-image: url("assets/banner/bannerAbout.png");
+}
+editar pra tirar as roupas no plano de fundo e colocar oculos
+=============================
+
+
+
+===================
+IDEIA MAPA, usar um script pra detectar o dia da semana e mudar a localização no mapa
+ex: quarta ir pra icarai
+quinta pra sao gonçalo
+e nisso mudar todos os dia e embaixo colocar os endereços padrao
+=====================

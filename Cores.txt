@@ -1,0 +1,16 @@
+
+Vermelhado>
+#ef3636
+#ff3300
+#ff3300dc CARRINHO
+
+
+Amarelado>
+#c9cc131e
+#ffbd27
+darkgoldenrod
+
+
+Branco diferente>
+#e1e1e1
+
